@@ -1,0 +1,31 @@
+body {
+  background-color: gray;
+  color: black;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 16px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  transition: color 0.3s;
+}
+nav a:hover {
+  color: blue;
+}
+
+.nav-color {
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: blue;
+}
